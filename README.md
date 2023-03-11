@@ -14,7 +14,7 @@ To start your Phoenix server:
 - iex(1)> ApiFlizzy.FlizzyCash.Api.test_ping()
 
 
-#if Connection was successul
+#if Connection was successful
 
 
 %{"Flizzy_Says" => "(V1) To the Bandoeng!"}
