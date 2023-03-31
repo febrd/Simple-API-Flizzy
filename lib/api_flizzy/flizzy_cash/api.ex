@@ -42,10 +42,6 @@ defmodule ApiFlizzy.FlizzyCash.Api do
   @doc """
   Ping API
 
-  ## Examples
-
-      iex(1)> CoinGeckoApi.ping
-      %{"gecko_says" => "(V3) To the Moon!"}
   """
   def test_ping do
     get_data("ping")
