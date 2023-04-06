@@ -6,7 +6,7 @@ defmodule ApiFlizzy.FlizzyCash.Api do
    @moduledoc """
   Documentation for `Flizzy Cash`.
 
-  This interface is based on version 3 of the api.
+  This interface is based on version 1 of the api.
   Base URL is "https://flizzy.id/api/v1/"
  """
 
