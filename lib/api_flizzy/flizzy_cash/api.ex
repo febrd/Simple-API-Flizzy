@@ -7,10 +7,10 @@ defmodule ApiFlizzy.FlizzyCash.Api do
   Documentation for `Flizzy Cash`.
 
   This interface is based on version 3 of the api.
-  Base URL is "https://flizzy.my.id/api/"
+  Base URL is "https://flizzy.id/api/v1/"
  """
 
-  @cg_base_url "https://flizzy.my.id/api/"
+  @cg_base_url "https://flizzy.id/api/v1/"
   @print_url false
 
   @spec get_data(binary) ::
